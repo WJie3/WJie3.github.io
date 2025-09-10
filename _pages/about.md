@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<div class="photo-wall-banner">
+  <img src="images/cover.jpg" alt="Cover">
+</div>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
