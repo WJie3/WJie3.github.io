@@ -62,3 +62,46 @@ Qiyu Pan\*, Jianqiao Zeng\*, **Jie Wang\***, Junyu Liu\*\*, Yihan Qiu\*\*, Kangy
 # 💬 Invited Talks
 
 # 💻 Internships
+
+<style>
+  .photo-wall-wide {
+  width: 100%;
+  max-width: 100%;
+  height: 300px;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2em;
+  background: #f8f8f8;
+  box-shadow: 0 2px 12px #eee;
+}
+
+.photo-wall-wide img {
+  height: 90%;
+  width: auto;
+  margin: 0 10px;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px #ccc;
+  flex-shrink: 0;
+}
+
+.photo-wall-banner {
+  width: 100%;
+  margin-bottom: 2em;
+  overflow: hidden;
+  box-shadow: 0 2px 12px #eee;
+}
+
+.photo-wall-banner img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+
+</style>
