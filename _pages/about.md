@@ -34,12 +34,12 @@ My current research interests lie in computer vision. My research started from L
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Amquestioner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/Amquestioner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AMQuestioner: Training Critical Thinking with Question-Driven Interactive ArgumentMapsinOnlineDiscussion
 
-Qiyu Pan\*, Jianqiao Zeng\*, **Jie Wang\***, Junyu Liu\*\*\*, Yihan Qiu\*\*\*, Kangyu Yuan, and Zhenhui Peng†
+Qiyu Pan\*, Jianqiao Zeng\*, **Jie Wang\***, Junyu Liu\*\*, Yihan Qiu\*\*, Kangyu Yuan, and Zhenhui Peng†
 
 - Computer Supported Cooperative Work(CSCW) 2025(CCF-A)
 </div>
